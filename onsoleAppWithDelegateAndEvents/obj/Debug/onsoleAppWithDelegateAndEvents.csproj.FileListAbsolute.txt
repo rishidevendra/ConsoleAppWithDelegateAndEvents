@@ -1,0 +1,6 @@
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\bin\Debug\onsoleAppWithDelegateAndEvents.exe.config
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\bin\Debug\onsoleAppWithDelegateAndEvents.exe
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\bin\Debug\onsoleAppWithDelegateAndEvents.pdb
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\obj\Debug\onsoleAppWithDelegateAndEvents.csprojResolveAssemblyReference.cache
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\obj\Debug\onsoleAppWithDelegateAndEvents.exe
+c:\users\devendrar\documents\visual studio 2015\Projects\onsoleAppWithDelegateAndEvents\onsoleAppWithDelegateAndEvents\obj\Debug\onsoleAppWithDelegateAndEvents.pdb
